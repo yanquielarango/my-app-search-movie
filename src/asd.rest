@@ -1,0 +1,5 @@
+###
+GET  https://api.themoviedb.org/3/discover/movie?sort_by=popularity.desc&api_key=1cd94c5adb83441b100d72a4f5f121d7
+
+###
+GET https://image.tmdb.org/t/p/w500
